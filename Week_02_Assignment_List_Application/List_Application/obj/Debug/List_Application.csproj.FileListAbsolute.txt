@@ -1,0 +1,14 @@
+E:\C_Sharp_Tutorial\List_Application\List_Application\obj\Debug\List_Application.csproj.AssemblyReference.cache
+E:\C_Sharp_Tutorial\List_Application\List_Application\obj\Debug\List_Application.csproj.CoreCompileInputs.cache
+E:\C_Sharp_Tutorial\List_Application\List_Application\bin\Debug\List_Application.exe.config
+E:\C_Sharp_Tutorial\List_Application\List_Application\bin\Debug\List_Application.exe
+E:\C_Sharp_Tutorial\List_Application\List_Application\bin\Debug\List_Application.pdb
+E:\C_Sharp_Tutorial\List_Application\List_Application\obj\Debug\List_Application.exe
+E:\C_Sharp_Tutorial\List_Application\List_Application\obj\Debug\List_Application.pdb
+E:\C_Sharp_Tutorial\Week_02_Assignment_List_Application\List_Application\bin\Debug\List_Application.exe.config
+E:\C_Sharp_Tutorial\Week_02_Assignment_List_Application\List_Application\bin\Debug\List_Application.exe
+E:\C_Sharp_Tutorial\Week_02_Assignment_List_Application\List_Application\bin\Debug\List_Application.pdb
+E:\C_Sharp_Tutorial\Week_02_Assignment_List_Application\List_Application\obj\Debug\List_Application.csproj.AssemblyReference.cache
+E:\C_Sharp_Tutorial\Week_02_Assignment_List_Application\List_Application\obj\Debug\List_Application.csproj.CoreCompileInputs.cache
+E:\C_Sharp_Tutorial\Week_02_Assignment_List_Application\List_Application\obj\Debug\List_Application.exe
+E:\C_Sharp_Tutorial\Week_02_Assignment_List_Application\List_Application\obj\Debug\List_Application.pdb
