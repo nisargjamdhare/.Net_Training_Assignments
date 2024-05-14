@@ -1,0 +1,7 @@
+E:\C_Sharp_Tutorial\Working_With_Variables\Working_With_Variables\bin\Debug\Working_With_Variables.exe.config
+E:\C_Sharp_Tutorial\Working_With_Variables\Working_With_Variables\bin\Debug\Working_With_Variables.exe
+E:\C_Sharp_Tutorial\Working_With_Variables\Working_With_Variables\bin\Debug\Working_With_Variables.pdb
+E:\C_Sharp_Tutorial\Working_With_Variables\Working_With_Variables\obj\Debug\Working_With_Variables.csproj.AssemblyReference.cache
+E:\C_Sharp_Tutorial\Working_With_Variables\Working_With_Variables\obj\Debug\Working_With_Variables.csproj.CoreCompileInputs.cache
+E:\C_Sharp_Tutorial\Working_With_Variables\Working_With_Variables\obj\Debug\Working_With_Variables.exe
+E:\C_Sharp_Tutorial\Working_With_Variables\Working_With_Variables\obj\Debug\Working_With_Variables.pdb
