@@ -1,0 +1,63 @@
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\Cosmos.CRTCompat.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\msvcp140.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\vcruntime140.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\vcruntime140_1.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\appsettings.Development.json
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\appsettings.json
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\Practice_Project== [(Bank_Management_System)].exe
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\Practice_Project== [(Bank_Management_System)].deps.json
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\Practice_Project== [(Bank_Management_System)].runtimeconfig.json
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\Practice_Project== [(Bank_Management_System)].dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\Practice_Project== [(Bank_Management_System)].pdb
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\Azure.Core.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Client.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Core.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Direct.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\System.Memory.Data.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140_1.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\obj\Debug\net8.0\Practice_Project== [(Bank_Management_System)].csproj.AssemblyReference.cache
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\obj\Debug\net8.0\Practice_Project== [(Bank_Management_System)].GeneratedMSBuildEditorConfig.editorconfig
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\obj\Debug\net8.0\Practice_Project== [(Bank_Management_System)].AssemblyInfoInputs.cache
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\obj\Debug\net8.0\Practice_Project== [(Bank_Management_System)].AssemblyInfo.cs
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\obj\Debug\net8.0\Practice_Project== [(Bank_Management_System)].csproj.CoreCompileInputs.cache
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\obj\Debug\net8.0\Practice_Project== [(Bank_Management_System)].MvcApplicationPartsAssemblyInfo.cs
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\obj\Debug\net8.0\Practice_Project== [(Bank_Management_System)].MvcApplicationPartsAssemblyInfo.cache
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\obj\Debug\net8.0\Practice_Project== [(Bank_Management_System)].sourcelink.json
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\obj\Debug\net8.0\staticwebassets.build.json
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\obj\Debug\net8.0\staticwebassets.development.json
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\obj\Debug\net8.0\staticwebassets\msbuild.Practice_Project== [(Bank_Management_System)].Microsoft.AspNetCore.StaticWebAssets.props
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\obj\Debug\net8.0\staticwebassets\msbuild.build.Practice_Project== [(Bank_Management_System)].props
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Practice_Project== [(Bank_Management_System)].props
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Practice_Project== [(Bank_Management_System)].props
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\obj\Debug\net8.0\staticwebassets.pack.json
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\obj\Debug\net8.0\scopedcss\bundle\Practice_Project== [(Bank_Management_System)].styles.css
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\obj\Debug\net8.0\Practice.0F3D7159.Up2Date
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\obj\Debug\net8.0\Practice_Project== [(Bank_Management_System)].dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\obj\Debug\net8.0\refint\Practice_Project== [(Bank_Management_System)].dll
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\obj\Debug\net8.0\Practice_Project== [(Bank_Management_System)].pdb
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\obj\Debug\net8.0\Practice_Project== [(Bank_Management_System)].genruntimeconfig.cache
+E:\C_Sharp_Tutorial\Practice_Project== [(Bank_Management_System)]\Practice_Project== [(Bank_Management_System)]\obj\Debug\net8.0\ref\Practice_Project== [(Bank_Management_System)].dll

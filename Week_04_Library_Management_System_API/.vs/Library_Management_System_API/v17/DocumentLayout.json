@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C_Sharp_Tutorial\\Week_04_Library_Management_System_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{179B1493-8340-4148-8D01-318D601CBECD}|Library_Management_System_API\\Library_Management_System_API.csproj|e:\\c_sharp_tutorial\\week_04_library_management_system_api\\library_management_system_api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179B1493-8340-4148-8D01-318D601CBECD}|Library_Management_System_API\\Library_Management_System_API.csproj|solutionrelative:library_management_system_api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179B1493-8340-4148-8D01-318D601CBECD}|Library_Management_System_API\\Library_Management_System_API.csproj|e:\\c_sharp_tutorial\\week_04_library_management_system_api\\library_management_system_api\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179B1493-8340-4148-8D01-318D601CBECD}|Library_Management_System_API\\Library_Management_System_API.csproj|solutionrelative:library_management_system_api\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179B1493-8340-4148-8D01-318D601CBECD}|Library_Management_System_API\\Library_Management_System_API.csproj|e:\\c_sharp_tutorial\\week_04_library_management_system_api\\library_management_system_api\\dto\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179B1493-8340-4148-8D01-318D601CBECD}|Library_Management_System_API\\Library_Management_System_API.csproj|solutionrelative:library_management_system_api\\dto\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179B1493-8340-4148-8D01-318D601CBECD}|Library_Management_System_API\\Library_Management_System_API.csproj|e:\\c_sharp_tutorial\\week_04_library_management_system_api\\library_management_system_api\\dto\\issuemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179B1493-8340-4148-8D01-318D601CBECD}|Library_Management_System_API\\Library_Management_System_API.csproj|solutionrelative:library_management_system_api\\dto\\issuemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179B1493-8340-4148-8D01-318D601CBECD}|Library_Management_System_API\\Library_Management_System_API.csproj|e:\\c_sharp_tutorial\\week_04_library_management_system_api\\library_management_system_api\\controllers\\issuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179B1493-8340-4148-8D01-318D601CBECD}|Library_Management_System_API\\Library_Management_System_API.csproj|solutionrelative:library_management_system_api\\controllers\\issuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179B1493-8340-4148-8D01-318D601CBECD}|Library_Management_System_API\\Library_Management_System_API.csproj|e:\\c_sharp_tutorial\\week_04_library_management_system_api\\library_management_system_api\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179B1493-8340-4148-8D01-318D601CBECD}|Library_Management_System_API\\Library_Management_System_API.csproj|solutionrelative:library_management_system_api\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179B1493-8340-4148-8D01-318D601CBECD}|Library_Management_System_API\\Library_Management_System_API.csproj|e:\\c_sharp_tutorial\\week_04_library_management_system_api\\library_management_system_api\\entities\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179B1493-8340-4148-8D01-318D601CBECD}|Library_Management_System_API\\Library_Management_System_API.csproj|solutionrelative:library_management_system_api\\entities\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179B1493-8340-4148-8D01-318D601CBECD}|Library_Management_System_API\\Library_Management_System_API.csproj|e:\\c_sharp_tutorial\\week_04_library_management_system_api\\library_management_system_api\\dto\\membermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179B1493-8340-4148-8D01-318D601CBECD}|Library_Management_System_API\\Library_Management_System_API.csproj|solutionrelative:library_management_system_api\\dto\\membermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179B1493-8340-4148-8D01-318D601CBECD}|Library_Management_System_API\\Library_Management_System_API.csproj|e:\\c_sharp_tutorial\\week_04_library_management_system_api\\library_management_system_api\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179B1493-8340-4148-8D01-318D601CBECD}|Library_Management_System_API\\Library_Management_System_API.csproj|solutionrelative:library_management_system_api\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C_Sharp_Tutorial\\Library_Management_System_API\\Library_Management_System_API\\Controllers\\DTO\\BookModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_04_Library_Management_System_API\\Library_Management_System_API\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Library_Management_System_API\\Controllers\\BookController.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_04_Library_Management_System_API\\Library_Management_System_API\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Library_Management_System_API\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAYwDkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:29:12.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Issue.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_04_Library_Management_System_API\\Library_Management_System_API\\Entities\\Issue.cs",
+              "RelativeDocumentMoniker": "Library_Management_System_API\\Entities\\Issue.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_04_Library_Management_System_API\\Library_Management_System_API\\Entities\\Issue.cs",
+              "RelativeToolTip": "Library_Management_System_API\\Entities\\Issue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:30:35.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IssueModel.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_04_Library_Management_System_API\\Library_Management_System_API\\DTO\\IssueModel.cs",
+              "RelativeDocumentMoniker": "Library_Management_System_API\\DTO\\IssueModel.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_04_Library_Management_System_API\\Library_Management_System_API\\DTO\\IssueModel.cs",
+              "RelativeToolTip": "Library_Management_System_API\\DTO\\IssueModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:30:55.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemberModel.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_04_Library_Management_System_API\\Library_Management_System_API\\DTO\\MemberModel.cs",
+              "RelativeDocumentMoniker": "Library_Management_System_API\\DTO\\MemberModel.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_04_Library_Management_System_API\\Library_Management_System_API\\DTO\\MemberModel.cs",
+              "RelativeToolTip": "Library_Management_System_API\\DTO\\MemberModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T05:30:18.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_04_Library_Management_System_API\\Library_Management_System_API\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "Library_Management_System_API\\Controllers\\MemberController.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_04_Library_Management_System_API\\Library_Management_System_API\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "Library_Management_System_API\\Controllers\\MemberController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T05:29:16.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Member.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_04_Library_Management_System_API\\Library_Management_System_API\\Entities\\Member.cs",
+              "RelativeDocumentMoniker": "Library_Management_System_API\\Entities\\Member.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_04_Library_Management_System_API\\Library_Management_System_API\\Entities\\Member.cs",
+              "RelativeToolTip": "Library_Management_System_API\\Entities\\Member.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T05:09:58.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_04_Library_Management_System_API\\Library_Management_System_API\\DTO\\BookModel.cs",
+              "RelativeDocumentMoniker": "Library_Management_System_API\\DTO\\BookModel.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_04_Library_Management_System_API\\Library_Management_System_API\\DTO\\BookModel.cs",
+              "RelativeToolTip": "Library_Management_System_API\\DTO\\BookModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:28:05.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_04_Library_Management_System_API\\Library_Management_System_API\\Entities\\EntityBase.cs",
+              "RelativeDocumentMoniker": "Library_Management_System_API\\Entities\\EntityBase.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_04_Library_Management_System_API\\Library_Management_System_API\\Entities\\EntityBase.cs",
+              "RelativeToolTip": "Library_Management_System_API\\Entities\\EntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:03:01.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IssueController.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_04_Library_Management_System_API\\Library_Management_System_API\\Controllers\\IssueController.cs",
+              "RelativeDocumentMoniker": "Library_Management_System_API\\Controllers\\IssueController.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_04_Library_Management_System_API\\Library_Management_System_API\\Controllers\\IssueController.cs",
+              "RelativeToolTip": "Library_Management_System_API\\Controllers\\IssueController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:30:06.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Library_Management_System_API\\Library_Management_System_API\\Controllers\\DTO\\BookModel.cs",
+              "RelativeDocumentMoniker": "..\\Library_Management_System_API\\Library_Management_System_API\\Controllers\\DTO\\BookModel.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Library_Management_System_API\\Library_Management_System_API\\Controllers\\DTO\\BookModel.cs",
+              "RelativeToolTip": "..\\Library_Management_System_API\\Library_Management_System_API\\Controllers\\DTO\\BookModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:57:51.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

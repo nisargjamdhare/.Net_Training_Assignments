@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Practice_Project== [(Bank_Management_System)]",
+    "\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]",
+    "\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Common",
+    "\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Controllers",
+    "\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\CosmosDB",
+    "\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\DTO",
+    "\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Entities",
+    "\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Interfaces",
+    "\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Services"
+  ],
+  "SelectedNode": "\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]",
+  "PreviewInSolutionExplorer": false
+}

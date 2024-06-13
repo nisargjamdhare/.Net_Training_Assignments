@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practice_Project== [(Bank_Management_System)]\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\CosmosDB\\CosmosDBService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practice_Project== [(Bank_Management_System)]\\CosmosDB\\CosmosDBService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practice_Project== [(Bank_Management_System)]\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Common\\Credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practice_Project== [(Bank_Management_System)]\\Common\\Credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practice_Project== [(Bank_Management_System)]\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Entities\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practice_Project== [(Bank_Management_System)]\\Entities\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practice_Project== [(Bank_Management_System)]\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Interfaces\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practice_Project== [(Bank_Management_System)]\\Interfaces\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\DTO\\UserDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practice_Project== [(Bank_Management_System)]\\DTO\\UserDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\CosmosDB\\ICosmosDbService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practice_Project== [(Bank_Management_System)]\\CosmosDB\\ICosmosDbService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practice_Project== [(Bank_Management_System)]\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Bank_Management_System.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practice_Project== [(Bank_Management_System)]\\Bank_Management_System.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Credentials.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Common\\Credentials.cs",
+              "RelativeDocumentMoniker": "Practice_Project== [(Bank_Management_System)]\\Common\\Credentials.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Common\\Credentials.cs",
+              "RelativeToolTip": "Practice_Project== [(Bank_Management_System)]\\Common\\Credentials.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:14:20.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Practice_Project== [(Bank_Management_System)]\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Practice_Project== [(Bank_Management_System)]\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:43:06.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Practice_Project== [(Bank_Management_System)]\\Entities\\BaseEntity.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Practice_Project== [(Bank_Management_System)]\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAswD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:06:37.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Practice_Project== [(Bank_Management_System)]\\Entities\\User.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Entities\\User.cs",
+              "RelativeToolTip": "Practice_Project== [(Bank_Management_System)]\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:47:26.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Practice_Project== [(Bank_Management_System)]\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Practice_Project== [(Bank_Management_System)]\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T10:36:55.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CosmosDBService.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\CosmosDB\\CosmosDBService.cs",
+              "RelativeDocumentMoniker": "Practice_Project== [(Bank_Management_System)]\\CosmosDB\\CosmosDBService.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\CosmosDB\\CosmosDBService.cs",
+              "RelativeToolTip": "Practice_Project== [(Bank_Management_System)]\\CosmosDB\\CosmosDBService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:45:42.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Practice_Project== [(Bank_Management_System)]\\Services\\UserService.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Services\\UserService.cs",
+              "RelativeToolTip": "Practice_Project== [(Bank_Management_System)]\\Services\\UserService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAqwEUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:43:25.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Practice_Project== [(Bank_Management_System)]\\Interfaces\\IUserService.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Practice_Project== [(Bank_Management_System)]\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:21:50.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Practice_Project== [(Bank_Management_System)]\\DTO\\UserDTO.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "Practice_Project== [(Bank_Management_System)]\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:46:26.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICosmosDbService.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\CosmosDB\\ICosmosDbService.cs",
+              "RelativeDocumentMoniker": "Practice_Project== [(Bank_Management_System)]\\CosmosDB\\ICosmosDbService.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\CosmosDB\\ICosmosDbService.cs",
+              "RelativeToolTip": "Practice_Project== [(Bank_Management_System)]\\CosmosDB\\ICosmosDbService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:19:30.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Program.cs",
+              "RelativeDocumentMoniker": "Practice_Project== [(Bank_Management_System)]\\Program.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Program.cs",
+              "RelativeToolTip": "Practice_Project== [(Bank_Management_System)]\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:25:24.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bank_Management_System.csproj",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Bank_Management_System.csproj",
+              "RelativeDocumentMoniker": "Practice_Project== [(Bank_Management_System)]\\Bank_Management_System.csproj",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\12 Updated\\12\\Practice_Project== [(Bank_Management_System)]\\Practice_Project== [(Bank_Management_System)]\\Bank_Management_System.csproj",
+              "RelativeToolTip": "Practice_Project== [(Bank_Management_System)]\\Bank_Management_System.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T07:50:45.897Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C_Sharp_Tutorial\\Working_With_Variables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2CDC52F-86F1-48B8-BD15-6FF9B458E46B}|Working_With_Variables\\Working_With_Variables.csproj|e:\\c_sharp_tutorial\\working_with_variables\\working_with_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2CDC52F-86F1-48B8-BD15-6FF9B458E46B}|Working_With_Variables\\Working_With_Variables.csproj|solutionrelative:working_with_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Working_With_Variables\\Working_With_Variables\\Program.cs",
+              "RelativeDocumentMoniker": "Working_With_Variables\\Program.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Working_With_Variables\\Working_With_Variables\\Program.cs",
+              "RelativeToolTip": "Working_With_Variables\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T04:19:31.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

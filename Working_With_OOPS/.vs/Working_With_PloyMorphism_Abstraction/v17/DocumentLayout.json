@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C_Sharp_Tutorial\\Working_With_PloyMorphism_Abstraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2800C14E-5579-49A8-9D6E-3555B223FFBF}|Working_With_PloyMorphism_Abstraction\\Working_With_PloyMorphism_Abstraction.csproj|e:\\c_sharp_tutorial\\working_with_ploymorphism_abstraction\\working_with_ploymorphism_abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2800C14E-5579-49A8-9D6E-3555B223FFBF}|Working_With_PloyMorphism_Abstraction\\Working_With_PloyMorphism_Abstraction.csproj|solutionrelative:working_with_ploymorphism_abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Working_With_PloyMorphism_Abstraction\\Working_With_PloyMorphism_Abstraction\\Program.cs",
+              "RelativeDocumentMoniker": "Working_With_PloyMorphism_Abstraction\\Program.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Working_With_PloyMorphism_Abstraction\\Working_With_PloyMorphism_Abstraction\\Program.cs",
+              "RelativeToolTip": "Working_With_PloyMorphism_Abstraction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T04:25:31.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

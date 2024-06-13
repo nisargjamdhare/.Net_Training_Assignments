@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Practice_Project== [(Bank_Management_System)].props" />
+</Project>

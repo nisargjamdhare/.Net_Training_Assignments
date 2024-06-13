@@ -1,0 +1,14 @@
+E:\C_Sharp_Tutorial\Work_With_DateTime_Array-List_ENUM\Work_With_DateTime_Array-List_ENUM\bin\Debug\net8.0\Work_With_DateTime_Array-List_ENUM.exe
+E:\C_Sharp_Tutorial\Work_With_DateTime_Array-List_ENUM\Work_With_DateTime_Array-List_ENUM\bin\Debug\net8.0\Work_With_DateTime_Array-List_ENUM.deps.json
+E:\C_Sharp_Tutorial\Work_With_DateTime_Array-List_ENUM\Work_With_DateTime_Array-List_ENUM\bin\Debug\net8.0\Work_With_DateTime_Array-List_ENUM.runtimeconfig.json
+E:\C_Sharp_Tutorial\Work_With_DateTime_Array-List_ENUM\Work_With_DateTime_Array-List_ENUM\bin\Debug\net8.0\Work_With_DateTime_Array-List_ENUM.dll
+E:\C_Sharp_Tutorial\Work_With_DateTime_Array-List_ENUM\Work_With_DateTime_Array-List_ENUM\bin\Debug\net8.0\Work_With_DateTime_Array-List_ENUM.pdb
+E:\C_Sharp_Tutorial\Work_With_DateTime_Array-List_ENUM\Work_With_DateTime_Array-List_ENUM\obj\Debug\net8.0\Work_With_DateTime_Array-List_ENUM.GeneratedMSBuildEditorConfig.editorconfig
+E:\C_Sharp_Tutorial\Work_With_DateTime_Array-List_ENUM\Work_With_DateTime_Array-List_ENUM\obj\Debug\net8.0\Work_With_DateTime_Array-List_ENUM.AssemblyInfoInputs.cache
+E:\C_Sharp_Tutorial\Work_With_DateTime_Array-List_ENUM\Work_With_DateTime_Array-List_ENUM\obj\Debug\net8.0\Work_With_DateTime_Array-List_ENUM.AssemblyInfo.cs
+E:\C_Sharp_Tutorial\Work_With_DateTime_Array-List_ENUM\Work_With_DateTime_Array-List_ENUM\obj\Debug\net8.0\Work_With_DateTime_Array-List_ENUM.csproj.CoreCompileInputs.cache
+E:\C_Sharp_Tutorial\Work_With_DateTime_Array-List_ENUM\Work_With_DateTime_Array-List_ENUM\obj\Debug\net8.0\Work_With_DateTime_Array-List_ENUM.dll
+E:\C_Sharp_Tutorial\Work_With_DateTime_Array-List_ENUM\Work_With_DateTime_Array-List_ENUM\obj\Debug\net8.0\refint\Work_With_DateTime_Array-List_ENUM.dll
+E:\C_Sharp_Tutorial\Work_With_DateTime_Array-List_ENUM\Work_With_DateTime_Array-List_ENUM\obj\Debug\net8.0\Work_With_DateTime_Array-List_ENUM.pdb
+E:\C_Sharp_Tutorial\Work_With_DateTime_Array-List_ENUM\Work_With_DateTime_Array-List_ENUM\obj\Debug\net8.0\Work_With_DateTime_Array-List_ENUM.genruntimeconfig.cache
+E:\C_Sharp_Tutorial\Work_With_DateTime_Array-List_ENUM\Work_With_DateTime_Array-List_ENUM\obj\Debug\net8.0\ref\Work_With_DateTime_Array-List_ENUM.dll

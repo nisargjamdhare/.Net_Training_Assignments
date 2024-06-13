@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Work_With_DateTime_Array-List_ENUM/1.0.0": {
+        "runtime": {
+          "Work_With_DateTime_Array-List_ENUM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Work_With_DateTime_Array-List_ENUM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

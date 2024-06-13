@@ -1,0 +1,6 @@
+@Practice_Project_____Bank_Management_System___HostAddress = http://localhost:5260
+
+GET {{Practice_Project_____Bank_Management_System___HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
