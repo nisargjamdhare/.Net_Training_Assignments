@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IeLglVGBF/5J8mqAaVo7kGN9eDHgFMbLNkPC4J/ztUhaD2Y1NdzgQvkBcOOWLZbH56aUI+QggH0fxrZds+adiQ==",
+  "dgSpecHash": "iuR4AZI9+J50rQXqoKwm6i4MnTEfIQg8RE071OLdm25Dp9I7B2eksdwCFoEzGDPW+Xk9MSbzhysNEXFkQRofpA==",
   "success": true,
-  "projectFilePath": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj",
+  "projectFilePath": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nisarga\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Nisarga\\.nuget\\packages\\azure.core\\1.19.0\\azure.core.1.19.0.nupkg.sha512",

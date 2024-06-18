@@ -2501,11 +2501,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj",
+      "projectUniqueName": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj",
       "projectName": "EmployeeManagementSystem25",
-      "projectPath": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj",
+      "projectPath": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj",
       "packagesPath": "C:\\Users\\Nisarga\\.nuget\\packages\\",
-      "outputPath": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\obj\\",
+      "outputPath": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nisarga\\AppData\\Roaming\\NuGet\\NuGet.Config",

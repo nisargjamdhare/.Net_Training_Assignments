@@ -1,69 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\",
+  "WorkspaceRootPath": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\employeemanagementsystem25\\employeemanagementsystem25\\services\\employeeadditionaldetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|solutionrelative:employeemanagementsystem25\\services\\employeeadditionaldetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\employeemanagementsystem25\\employeemanagementsystem25\\services\\employeebasicdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|solutionrelative:employeemanagementsystem25\\services\\employeebasicdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\employeemanagementsystem25\\employeemanagementsystem25\\interfaces\\imanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|solutionrelative:employeemanagementsystem25\\interfaces\\imanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\employeemanagementsystem25\\employeemanagementsystem25\\interfaces\\iemployeebasicdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|solutionrelative:employeemanagementsystem25\\interfaces\\iemployeebasicdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\employeemanagementsystem25\\employeemanagementsystem25\\controllers\\employeebasicdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\week_06_employee management system\\employeemanagementsystem25\\employeemanagementsystem25\\controllers\\employeebasicdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|solutionrelative:employeemanagementsystem25\\controllers\\employeebasicdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\employeemanagementsystem25\\employeemanagementsystem25\\entities\\employeebasicdetailsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\week_06_employee management system\\employeemanagementsystem25\\employeemanagementsystem25\\services\\employeeadditionaldetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|solutionrelative:employeemanagementsystem25\\services\\employeeadditionaldetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\week_06_employee management system\\employeemanagementsystem25\\employeemanagementsystem25\\services\\employeebasicdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|solutionrelative:employeemanagementsystem25\\services\\employeebasicdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\week_06_employee management system\\employeemanagementsystem25\\employeemanagementsystem25\\interfaces\\imanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|solutionrelative:employeemanagementsystem25\\interfaces\\imanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\week_06_employee management system\\employeemanagementsystem25\\employeemanagementsystem25\\interfaces\\iemployeebasicdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|solutionrelative:employeemanagementsystem25\\interfaces\\iemployeebasicdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\week_06_employee management system\\employeemanagementsystem25\\employeemanagementsystem25\\entities\\employeebasicdetailsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|solutionrelative:employeemanagementsystem25\\entities\\employeebasicdetailsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\employeemanagementsystem25\\employeemanagementsystem25\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\week_06_employee management system\\employeemanagementsystem25\\employeemanagementsystem25\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|solutionrelative:employeemanagementsystem25\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\employeemanagementsystem25\\employeemanagementsystem25\\cosmosdb\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\week_06_employee management system\\employeemanagementsystem25\\employeemanagementsystem25\\cosmosdb\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|solutionrelative:employeemanagementsystem25\\cosmosdb\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\employeemanagementsystem25\\employeemanagementsystem25\\cosmosdb\\icosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\week_06_employee management system\\employeemanagementsystem25\\employeemanagementsystem25\\cosmosdb\\icosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|solutionrelative:employeemanagementsystem25\\cosmosdb\\icosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\employeemanagementsystem25\\employeemanagementsystem25\\dto\\employeebasicdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\week_06_employee management system\\employeemanagementsystem25\\employeemanagementsystem25\\dto\\employeebasicdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|solutionrelative:employeemanagementsystem25\\dto\\employeebasicdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\employeemanagementsystem25\\employeemanagementsystem25\\dto\\employeeadditionaldetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\week_06_employee management system\\employeemanagementsystem25\\employeemanagementsystem25\\dto\\employeeadditionaldetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|solutionrelative:employeemanagementsystem25\\dto\\employeeadditionaldetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\employeemanagementsystem25\\employeemanagementsystem25\\interfaces\\iemployeeadditionaldetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\week_06_employee management system\\employeemanagementsystem25\\employeemanagementsystem25\\interfaces\\iemployeeadditionaldetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|solutionrelative:employeemanagementsystem25\\interfaces\\iemployeeadditionaldetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\employeemanagementsystem25\\employeemanagementsystem25\\controllers\\employeeadditionaldetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\week_06_employee management system\\employeemanagementsystem25\\employeemanagementsystem25\\controllers\\employeeadditionaldetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|solutionrelative:employeemanagementsystem25\\controllers\\employeeadditionaldetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\employeemanagementsystem25\\employeemanagementsystem25\\entities\\managerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\week_06_employee management system\\employeemanagementsystem25\\employeemanagementsystem25\\entities\\managerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|solutionrelative:employeemanagementsystem25\\entities\\managerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\employeemanagementsystem25\\employeemanagementsystem25\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\week_06_employee management system\\employeemanagementsystem25\\employeemanagementsystem25\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|solutionrelative:employeemanagementsystem25\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\employeemanagementsystem25\\employeemanagementsystem25\\entities\\employeeadditionaldetailsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|e:\\c_sharp_tutorial\\week_06_employee management system\\employeemanagementsystem25\\employeemanagementsystem25\\entities\\employeeadditionaldetailsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02188DE7-83F7-4F97-8237-94131DD0F93A}|EmployeeManagementSystem25\\EmployeeManagementSystem25.csproj|solutionrelative:employeemanagementsystem25\\entities\\employeeadditionaldetailsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -74,33 +74,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "EmployeeBasicDetailsController.cs",
-              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Controllers\\EmployeeBasicDetailsController.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Controllers\\EmployeeBasicDetailsController.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem25\\Controllers\\EmployeeBasicDetailsController.cs",
-              "ToolTip": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Controllers\\EmployeeBasicDetailsController.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Controllers\\EmployeeBasicDetailsController.cs",
               "RelativeToolTip": "EmployeeManagementSystem25\\Controllers\\EmployeeBasicDetailsController.cs",
-              "ViewState": "AQIAANMAAAAAAAAAAAAIwN8AAAAcAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAASwCkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T18:11:05.949Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IManagerService.cs",
-              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Interfaces\\IManagerService.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementSystem25\\Interfaces\\IManagerService.cs",
-              "ToolTip": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Interfaces\\IManagerService.cs",
-              "RelativeToolTip": "EmployeeManagementSystem25\\Interfaces\\IManagerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T12:27:16.221Z",
               "EditorCaption": ""
             },
             {
@@ -109,11 +96,23 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IManagerService.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Interfaces\\IManagerService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem25\\Interfaces\\IManagerService.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Interfaces\\IManagerService.cs",
+              "RelativeToolTip": "EmployeeManagementSystem25\\Interfaces\\IManagerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:27:16.221Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ManagerController.cs",
-              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Controllers\\ManagerController.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Controllers\\ManagerController.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem25\\Controllers\\ManagerController.cs",
-              "ToolTip": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Controllers\\ManagerController.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Controllers\\ManagerController.cs",
               "RelativeToolTip": "EmployeeManagementSystem25\\Controllers\\ManagerController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -124,22 +123,21 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "EmployeeAdditionalDetailsController.cs",
-              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Controllers\\EmployeeAdditionalDetailsController.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Controllers\\EmployeeAdditionalDetailsController.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem25\\Controllers\\EmployeeAdditionalDetailsController.cs",
-              "ToolTip": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Controllers\\EmployeeAdditionalDetailsController.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Controllers\\EmployeeAdditionalDetailsController.cs",
               "RelativeToolTip": "EmployeeManagementSystem25\\Controllers\\EmployeeAdditionalDetailsController.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAkwDMAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T08:49:48.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T08:49:48.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EmployeeAdditionalDetailsService.cs",
-              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Services\\EmployeeAdditionalDetailsService.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Services\\EmployeeAdditionalDetailsService.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem25\\Services\\EmployeeAdditionalDetailsService.cs",
-              "ToolTip": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Services\\EmployeeAdditionalDetailsService.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Services\\EmployeeAdditionalDetailsService.cs",
               "RelativeToolTip": "EmployeeManagementSystem25\\Services\\EmployeeAdditionalDetailsService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -150,144 +148,133 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "IEmployeeAdditionalDetailsService.cs",
-              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Interfaces\\IEmployeeAdditionalDetailsService.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Interfaces\\IEmployeeAdditionalDetailsService.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem25\\Interfaces\\IEmployeeAdditionalDetailsService.cs",
-              "ToolTip": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Interfaces\\IEmployeeAdditionalDetailsService.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Interfaces\\IEmployeeAdditionalDetailsService.cs",
               "RelativeToolTip": "EmployeeManagementSystem25\\Interfaces\\IEmployeeAdditionalDetailsService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T08:39:40.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T08:39:40.474Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "CosmosDBService.cs",
-              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\CosmosDB\\CosmosDBService.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\CosmosDB\\CosmosDBService.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem25\\CosmosDB\\CosmosDBService.cs",
-              "ToolTip": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\CosmosDB\\CosmosDBService.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\CosmosDB\\CosmosDBService.cs",
               "RelativeToolTip": "EmployeeManagementSystem25\\CosmosDB\\CosmosDBService.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAA7wCQAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T08:39:34.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T08:39:34.227Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ICosmosDBService.cs",
-              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\CosmosDB\\ICosmosDBService.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\CosmosDB\\ICosmosDBService.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem25\\CosmosDB\\ICosmosDBService.cs",
-              "ToolTip": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\CosmosDB\\ICosmosDBService.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\CosmosDB\\ICosmosDBService.cs",
               "RelativeToolTip": "EmployeeManagementSystem25\\CosmosDB\\ICosmosDBService.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T08:39:29.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T08:39:29.122Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "EmployeeAdditionalDetailsDTO.cs",
-              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\DTO\\EmployeeAdditionalDetailsDTO.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\DTO\\EmployeeAdditionalDetailsDTO.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem25\\DTO\\EmployeeAdditionalDetailsDTO.cs",
-              "ToolTip": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\DTO\\EmployeeAdditionalDetailsDTO.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\DTO\\EmployeeAdditionalDetailsDTO.cs",
               "RelativeToolTip": "EmployeeManagementSystem25\\DTO\\EmployeeAdditionalDetailsDTO.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAYwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T08:33:45.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T08:33:45.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmployeeBasicDetailsService.cs",
-              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Services\\EmployeeBasicDetailsService.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Services\\EmployeeBasicDetailsService.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem25\\Services\\EmployeeBasicDetailsService.cs",
-              "ToolTip": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Services\\EmployeeBasicDetailsService.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Services\\EmployeeBasicDetailsService.cs",
               "RelativeToolTip": "EmployeeManagementSystem25\\Services\\EmployeeBasicDetailsService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T08:28:41.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T08:28:41.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IEmployeeBasicDetailsService.cs",
-              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Interfaces\\IEmployeeBasicDetailsService.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Interfaces\\IEmployeeBasicDetailsService.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem25\\Interfaces\\IEmployeeBasicDetailsService.cs",
-              "ToolTip": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Interfaces\\IEmployeeBasicDetailsService.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Interfaces\\IEmployeeBasicDetailsService.cs",
               "RelativeToolTip": "EmployeeManagementSystem25\\Interfaces\\IEmployeeBasicDetailsService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T08:23:35.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T08:23:35.583Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "EmployeeBasicDetailsDTO.cs",
-              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\DTO\\EmployeeBasicDetailsDTO.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\DTO\\EmployeeBasicDetailsDTO.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem25\\DTO\\EmployeeBasicDetailsDTO.cs",
-              "ToolTip": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\DTO\\EmployeeBasicDetailsDTO.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\DTO\\EmployeeBasicDetailsDTO.cs",
               "RelativeToolTip": "EmployeeManagementSystem25\\DTO\\EmployeeBasicDetailsDTO.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAAwCYAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T08:22:21.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T08:22:21.717Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "EmployeeBasicDetailsEntity.cs",
-              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Entities\\EmployeeBasicDetailsEntity.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Entities\\EmployeeBasicDetailsEntity.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem25\\Entities\\EmployeeBasicDetailsEntity.cs",
-              "ToolTip": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Entities\\EmployeeBasicDetailsEntity.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Entities\\EmployeeBasicDetailsEntity.cs",
               "RelativeToolTip": "EmployeeManagementSystem25\\Entities\\EmployeeBasicDetailsEntity.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAA5wD4AAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T08:19:32.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T08:19:32.107Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "ManagerEntity.cs",
-              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Entities\\ManagerEntity.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Entities\\ManagerEntity.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem25\\Entities\\ManagerEntity.cs",
-              "ToolTip": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Entities\\ManagerEntity.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Entities\\ManagerEntity.cs",
               "RelativeToolTip": "EmployeeManagementSystem25\\Entities\\ManagerEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T07:40:51.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T07:40:51.295Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "EmployeeAdditionalDetailsEntity.cs",
-              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Entities\\EmployeeAdditionalDetailsEntity.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Entities\\EmployeeAdditionalDetailsEntity.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem25\\Entities\\EmployeeAdditionalDetailsEntity.cs",
-              "ToolTip": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Entities\\EmployeeAdditionalDetailsEntity.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Entities\\EmployeeAdditionalDetailsEntity.cs",
               "RelativeToolTip": "EmployeeManagementSystem25\\Entities\\EmployeeAdditionalDetailsEntity.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAA9wAAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T07:40:47.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T07:40:47.536Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Entities\\BaseEntity.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem25\\Entities\\BaseEntity.cs",
-              "ToolTip": "E:\\C_Sharp_Tutorial\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Entities\\BaseEntity.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial\\Week_06_Employee Management System\\EmployeeManagementSystem25\\EmployeeManagementSystem25\\Entities\\BaseEntity.cs",
               "RelativeToolTip": "EmployeeManagementSystem25\\Entities\\BaseEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T07:40:28.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T07:40:28.707Z"
             }
           ]
         }
