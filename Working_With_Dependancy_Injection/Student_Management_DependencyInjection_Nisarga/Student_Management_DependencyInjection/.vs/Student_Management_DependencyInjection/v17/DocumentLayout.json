@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|e:\\c_sharp_tutorial_private\\student_management_dependencyinjection_shruti\\student_management_dependencyinjection\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|e:\\c_sharp_tutorial_private\\student_management_dependencyinjection_shruti\\student_management_dependencyinjection\\common\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|solutionrelative:common\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|e:\\c_sharp_tutorial_private\\student_management_dependencyinjection_shruti\\student_management_dependencyinjection\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|solutionrelative:dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|e:\\c_sharp_tutorial_private\\student_management_dependencyinjection_shruti\\student_management_dependencyinjection\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|solutionrelative:service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|e:\\c_sharp_tutorial_private\\student_management_dependencyinjection_shruti\\student_management_dependencyinjection\\cosmosdb\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|solutionrelative:cosmosdb\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|e:\\c_sharp_tutorial_private\\student_management_dependencyinjection_shruti\\student_management_dependencyinjection\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|solutionrelative:common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|e:\\c_sharp_tutorial_private\\student_management_dependencyinjection_shruti\\student_management_dependencyinjection\\interface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|solutionrelative:interface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|e:\\c_sharp_tutorial_private\\student_management_dependencyinjection_shruti\\student_management_dependencyinjection\\cosmosdb\\icosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|solutionrelative:cosmosdb\\icosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|e:\\c_sharp_tutorial_private\\student_management_dependencyinjection_shruti\\student_management_dependencyinjection\\entity\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|solutionrelative:entity\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|e:\\c_sharp_tutorial_private\\student_management_dependencyinjection_shruti\\student_management_dependencyinjection\\common\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|solutionrelative:common\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|e:\\c_sharp_tutorial_private\\student_management_dependencyinjection_shruti\\student_management_dependencyinjection\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|e:\\c_sharp_tutorial_private\\student_management_dependencyinjection_shruti\\student_management_dependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|e:\\c_sharp_tutorial_private\\student_management_dependencyinjection_shruti\\student_management_dependencyinjection\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81C183E-1478-4EBB-8C81-5CC1E578E4CD}|Student_Management_DependencyInjection.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\Common\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Common\\AutoMapperProfile.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\Common\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Common\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:25:28.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:23:52.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "Service\\StudentService.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\Service\\StudentService.cs",
+              "RelativeToolTip": "Service\\StudentService.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAwF4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:23:29.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentEntity.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\Entity\\StudentEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\StudentEntity.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\Entity\\StudentEntity.cs",
+              "RelativeToolTip": "Entity\\StudentEntity.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:27:30.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICosmosDBService.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\CosmosDB\\ICosmosDBService.cs",
+              "RelativeDocumentMoniker": "CosmosDB\\ICosmosDBService.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\CosmosDB\\ICosmosDBService.cs",
+              "RelativeToolTip": "CosmosDB\\ICosmosDBService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:25:58.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CosmosDBService.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\CosmosDB\\CosmosDBService.cs",
+              "RelativeDocumentMoniker": "CosmosDB\\CosmosDBService.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\CosmosDB\\CosmosDBService.cs",
+              "RelativeToolTip": "CosmosDB\\CosmosDBService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:24:37.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T05:00:08.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\DTO\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\StudentDTO.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\DTO\\StudentDTO.cs",
+              "RelativeToolTip": "DTO\\StudentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:27:14.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\Interface\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Interface\\IStudentService.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\Interface\\IStudentService.cs",
+              "RelativeToolTip": "Interface\\IStudentService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:40:04.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:37:59.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Common\\BaseEntity.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Common\\BaseEntity.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:54:03.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Credentials.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\Common\\Credentials.cs",
+              "RelativeDocumentMoniker": "Common\\Credentials.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\Common\\Credentials.cs",
+              "RelativeToolTip": "Common\\Credentials.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:55:34.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\C_Sharp_Tutorial_Private\\Student_Management_DependencyInjection_Shruti\\Student_Management_DependencyInjection\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T17:23:47.171Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+[
+  {
+    "ContainingType": "EmployeeAdditionalDetailsController",
+    "Method": "AddEmployeeAdditionalDetails",
+    "RelativePath": "api/EmployeeAdditionalDetails/AddEmployeeAdditionalDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "additionalDetailsDTO",
+        "Type": "EmployeeManagementSystem25.DTO.EmployeeAdditionalDetailsDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EmployeeManagementSystem25.DTO.EmployeeAdditionalDetailsDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EmployeeAdditionalDetailsController",
+    "Method": "DeleteAdditionalDetailsByBasicDetailsUId",
+    "RelativePath": "api/EmployeeAdditionalDetails/DeleteAdditionalDetailsByBasicDetailsUId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "basicDetailsUId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeAdditionalDetailsController",
+    "Method": "GetAllEmployeeAdditionalDetails",
+    "RelativePath": "api/EmployeeAdditionalDetails/GetAllEmployeeAdditionalDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[EmployeeManagementSystem25.DTO.EmployeeAdditionalDetailsDTO, EmployeeManagementSystem25, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EmployeeAdditionalDetailsController",
+    "Method": "GetEmployeeAdditionalDetailsByBasicDetailsUId",
+    "RelativePath": "api/EmployeeAdditionalDetails/GetEmployeeAdditionalDetailsByBasicDetailsUId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "basicDetailsUId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EmployeeManagementSystem25.DTO.EmployeeAdditionalDetailsDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EmployeeAdditionalDetailsController",
+    "Method": "UpdateAdditionalDetailsByBasicDetailsUId",
+    "RelativePath": "api/EmployeeAdditionalDetails/UpdateAdditionalDetailsByBasicDetailsUId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "basicDetailsUId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "additionalDetailsDTO",
+        "Type": "EmployeeManagementSystem25.DTO.EmployeeAdditionalDetailsDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeManagementSystem25.Controllers.EmployeeBasicDetailsController",
+    "Method": "AddEmployeeBasicDetails",
+    "RelativePath": "api/EmployeeBasicDetails/AddEmployeeBasicDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeBasicDetailsDTO",
+        "Type": "EmployeeManagementSystem25.DTO.EmployeeBasicDetailsDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EmployeeManagementSystem25.DTO.EmployeeBasicDetailsDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EmployeeManagementSystem25.Controllers.EmployeeBasicDetailsController",
+    "Method": "AddStudentByMakePostRequest",
+    "RelativePath": "api/EmployeeBasicDetails/AddStudentByMakePostRequest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentDTO",
+        "Type": "EmployeeManagementSystem25.DTO.StudentDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeManagementSystem25.Controllers.EmployeeBasicDetailsController",
+    "Method": "DeleteUserByUId",
+    "RelativePath": "api/EmployeeBasicDetails/DeleteUserByUId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeManagementSystem25.Controllers.EmployeeBasicDetailsController",
+    "Method": "Export",
+    "RelativePath": "api/EmployeeBasicDetails/Export/ExportInExcel",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeManagementSystem25.Controllers.EmployeeBasicDetailsController",
+    "Method": "GetAllEmployeeBasicDetails",
+    "RelativePath": "api/EmployeeBasicDetails/GetAllEmployeeBasicDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[EmployeeManagementSystem25.DTO.EmployeeBasicDetailsDTO, EmployeeManagementSystem25, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EmployeeManagementSystem25.Controllers.EmployeeBasicDetailsController",
+    "Method": "GetAllEmployeeBasicDetailsByPagination",
+    "RelativePath": "api/EmployeeBasicDetails/GetAllEmployeeBasicDetailsByPagination",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeFilterCriteria",
+        "Type": "EmployeeManagementSystem25.Entities.EmployeeFilterCriteria",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EmployeeManagementSystem25.Entities.EmployeeFilterCriteria",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EmployeeManagementSystem25.Controllers.EmployeeBasicDetailsController",
+    "Method": "GetAllEmployeeBasicDetailsByRole",
+    "RelativePath": "api/EmployeeBasicDetails/GetAllEmployeeBasicDetailsByRole",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "role",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeManagementSystem25.Controllers.EmployeeBasicDetailsController",
+    "Method": "GetEmployeeBasicDetailsByUId",
+    "RelativePath": "api/EmployeeBasicDetails/GetEmployeeBasicDetailsByUId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EmployeeManagementSystem25.DTO.EmployeeBasicDetailsDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EmployeeManagementSystem25.Controllers.EmployeeBasicDetailsController",
+    "Method": "GetStudentByMakeGetReq",
+    "RelativePath": "api/EmployeeBasicDetails/GetStudentByMakeGetReq/GetStudentByMakeGetReq",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeManagementSystem25.Controllers.EmployeeBasicDetailsController",
+    "Method": "ImportExcel",
+    "RelativePath": "api/EmployeeBasicDetails/ImportExcel/ImportExcel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "formFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeManagementSystem25.Controllers.EmployeeBasicDetailsController",
+    "Method": "UpdateUserDetailsByUId",
+    "RelativePath": "api/EmployeeBasicDetails/UpdateUserDetailsByUId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "employeeBasicDetailsDTO",
+        "Type": "EmployeeManagementSystem25.DTO.EmployeeBasicDetailsDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeManagementSystem25.Controllers.ManagerController",
+    "Method": "AddManager",
+    "RelativePath": "api/Manager/AddManager",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "managerDTO",
+        "Type": "EmployeeManagementSystem25.DTO.ManagerDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EmployeeManagementSystem25.DTO.ManagerDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
